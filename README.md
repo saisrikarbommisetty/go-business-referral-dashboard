@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/React-19-blue)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Deployed-success)
+
 # 🚀 Go Business Referral Dashboard
 
 A modern and responsive Referral Management Platform built using **React.js**, designed to help businesses monitor referral performance, track earnings, manage partner activity, and share referral information efficiently.
