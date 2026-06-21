@@ -1,0 +1,41 @@
+.wrapper {
+  background-color: #f4f6fa;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+
+.content {
+  text-align: center;
+}
+
+.code {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0;
+  line-height: 1;
+}
+
+.message {
+  font-size: 1rem;
+  color: #64748b;
+  margin: 0.5rem 0 1rem 0;
+  font-weight: 500;
+}
+
+.link {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #4f46e5;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.link:hover {
+  color: #3730a3;
+  text-decoration: underline;
+}
