@@ -247,20 +247,19 @@ Implemented accessibility best practices:
 
 ---
 
-## 📸 Application Preview
+## Application Screenshots
 
 ### Login Page
 
-Secure user authentication interface.
+![Login](assets/screenshots/login-page.png)
 
 ### Dashboard
 
-Referral metrics, service insights, and referral management.
+![Dashboard](assets/screenshots/dashboard-page.png)
 
 ### Referral Details
 
-Detailed information about individual referrals.
-
+![Details](assets/screenshots/referral-details.png)
 ---
 
 ## 👨‍💻 Developed By
@@ -272,6 +271,9 @@ B.Tech CSE | Full Stack Developer | React Developer
 Passionate about building scalable web applications, modern dashboards, and impactful digital experiences.
 
 ---
+## Test Credentials
+
+Assessment evaluators can use the credentials provided in the assignment document.
 
 ## 📜 License
 
