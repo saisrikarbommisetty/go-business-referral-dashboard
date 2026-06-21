@@ -255,7 +255,7 @@ Implemented accessibility best practices:
 
 ### Dashboard
 
-![Dashboard](assets/screenshots/dashboard-page.png)
+![Dashboard](assets/screenshots/referral-dashboard-page.png)
 
 ### Referral Details
 
